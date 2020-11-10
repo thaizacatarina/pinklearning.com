@@ -1,0 +1,43 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Pink Learning</title>
+        <link href="./Resources/css/PinkLearning.css" rel="stylesheet">
+    </head>
+
+    <!-- Welcome to Pink Learning-->
+    
+    <header>
+        <nav>
+            <br><a href="./PinkLearning.html">Blog</a></br>
+            <br><a href="#Aboutme">About Me</a></br>
+            <br><a href="./PinkLearningContact.html">Get in Touch</a></br>
+            <br><a href="">Pink Store</a></br>  
+            </nav>
+          
+        <div id="banner">
+                <h1>Pink Learning</h1>
+                <h2>Grab your coffee. Have a seat.</h2>
+        </div>
+    </header>
+
+    <body>
+        <!-- Blog Features-->
+        <div id=Blog>
+            <h1>Blog</h1>
+            <h2>The Use of Technology in Learning</h2>
+            <h2>The Psycology Behind Games</h2>
+        </div>
+
+        <!-- About Me Section-->
+        <div id=Aboutme>
+            <h1>About Me</h1>
+            <img src="" alt="">
+        </div>
+        
+        <!-- Keep in touch Section-->
+        <div id=Contact>
+            <h1>Keep in Touch</h1>
+        </div>    
+    </body>
+</html>
